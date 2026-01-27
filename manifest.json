@@ -1,0 +1,327 @@
+{
+  "minecraft_version": "1.21.10",
+  "loader": "fabric",
+  "fabric_version": "0.17.3",
+  "mods": [
+    {
+      "name": "Clumps-fabric-1.21.10-28.0.0.1.jar",
+      "hash": "0b08d0dd141650eb6b3b8060e203642a2296ab00c494cbf03c8b606d92c115d2",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/Clumps-fabric-1.21.10-28.0.0.1.jar"
+    },
+    {
+      "name": "Controlling-fabric-1.21.10-28.0.2.jar",
+      "hash": "b18da5b065ac1a5c133eef9ad186c7219fa4c6b4d5cac1a3b04a1b2dff3cc27b",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/Controlling-fabric-1.21.10-28.0.2.jar"
+    },
+    {
+      "name": "ForgeConfigAPIPort-v21.10.1+mc1.21.10-Fabric.jar",
+      "hash": "de7cb0aece923411aa382cd09824e67ba5e2504ad926b4d628fc7c7eee150565",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/ForgeConfigAPIPort-v21.10.1+mc1.21.10-Fabric.jar"
+    },
+    {
+      "name": "Jade-1.21.9-Fabric-20.0.5.jar",
+      "hash": "1d97ef9e761e4606e041139dababfd53b7e7c7532135ab1e69e74d24f2693711",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/Jade-1.21.9-Fabric-20.0.5.jar"
+    },
+    {
+      "name": "JustEnoughResources-Fabric-1.21.10-1.8.1.27.jar",
+      "hash": "e980e4614dbe6d77a6f4da8caccc3c577ebbc1b0acf8f833bc1ef82786363a7f",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/JustEnoughResources-Fabric-1.21.10-1.8.1.27.jar"
+    },
+    {
+      "name": "PuzzlesLib-v21.10.8+mc1.21.10-Fabric.jar",
+      "hash": "3378340cb0aa04d60aceabdebd2fb6a326e777d8eaed5622ac98955ad4b757b5",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/PuzzlesLib-v21.10.8+mc1.21.10-Fabric.jar"
+    },
+    {
+      "name": "Searchables-fabric-1.21.10-1.0.2.jar",
+      "hash": "06a2f690069da4020ef880c3284739f4fbb974e8860982fc25e8701c0da59977",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/Searchables-fabric-1.21.10-1.0.2.jar"
+    },
+    {
+      "name": "StorageDrawers-fabric-1.21.10-19.1.1.jar",
+      "hash": "3a0700b9ea87d9a1d38532cb3827d199b03ac21fb9325d7d05b029c6e253e594",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/StorageDrawers-fabric-1.21.10-19.1.1.jar"
+    },
+    {
+      "name": "TaxFreeLevels-1.4.10-fabric-1.21.5.jar",
+      "hash": "14ef5b86c6034ef83da54eed4420ae57e9f8ee31011905569495aab63f17a7be",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/TaxFreeLevels-1.4.10-fabric-1.21.5.jar"
+    },
+    {
+      "name": "UniversalBoneMeal-v21.10.0+mc1.21.10-Fabric.jar",
+      "hash": "4363b07abddbb59d320c3931ab8c65b1ad8021f2773d1507e0c036c1c918f289",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/UniversalBoneMeal-v21.10.0+mc1.21.10-Fabric.jar"
+    },
+    {
+      "name": "Xaeros_Minimap_25.2.15_Fabric_1.21.9.jar",
+      "hash": "c3500b7d5d8bb205017b4e15d6abcabf3edac8d41a4f6b33d13f6e5ca6600af7",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/Xaeros_Minimap_25.2.15_Fabric_1.21.9.jar"
+    },
+    {
+      "name": "appleskin-fabric-mc1.21.9-3.0.7.jar",
+      "hash": "7a311b153af4c2b7609b8492a63b24dd9b7afd338bac1a23df6a891a6e800b89",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/appleskin-fabric-mc1.21.9-3.0.7.jar"
+    },
+    {
+      "name": "architectury-18.0.8-fabric.jar",
+      "hash": "a5cfdf71eaa280cdc110d3b5e0079d3fa60651a4aa52d92c9a3b54624cca0813",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/architectury-18.0.8-fabric.jar"
+    },
+    {
+      "name": "audioplayer-fabric-2.0.9+1.21.10.jar",
+      "hash": "e08be4bfae1ed7ec748ccb483df8497957dcfba6424134f697fd1f01e31ce71c",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/audioplayer-fabric-2.0.9+1.21.10.jar"
+    },
+    {
+      "name": "balm-fabric-1.21.10-21.10.8.jar",
+      "hash": "2417e595d57f1a2015c078b534e35b687cb5b7eb1ca875034297112e9fcbe2ce",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/balm-fabric-1.21.10-21.10.8.jar"
+    },
+    {
+      "name": "blastingstone-1.21.10-fabric-2.2.jar",
+      "hash": "e45337356dc47603a0cbfef870a782933c254b0e8734712b30aba0f66189fac3",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/blastingstone-1.21.10-fabric-2.2.jar"
+    },
+    {
+      "name": "breadvariants-fabric-1.21.6-1.0.4a.jar",
+      "hash": "75bb0303d1c2e0431d986cbd8a88c8254ceb09491f77201e53e3c653e6049a13",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/breadvariants-fabric-1.21.6-1.0.4a.jar"
+    },
+    {
+      "name": "chat_heads-1.1.7-fabric-1.21.9.jar",
+      "hash": "f664d0cce90249a9a12a374bc1ffc099ccb9cb12683988f855501156b3020640",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/chat_heads-1.1.7-fabric-1.21.9.jar"
+    },
+    {
+      "name": "cloth-config-20.0.149-fabric.jar",
+      "hash": "066a447e3423a182dac8c4b25a693c726308a3d3cb3df316d5588099b4751787",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/cloth-config-20.0.149-fabric.jar"
+    },
+    {
+      "name": "collective-1.21.10-8.13.jar",
+      "hash": "6d147b507af9087a7b04d492f28d1b318c064a6bc8f606937eb114e88f74b0b1",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/collective-1.21.10-8.13.jar"
+    },
+    {
+      "name": "comforts-fabric-13.0.1+1.21.10.jar",
+      "hash": "1797269acb06dfb30725208c2c3e1d9205060c6664ce5ff4974ac204525ebabc",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/comforts-fabric-13.0.1+1.21.10.jar"
+    },
+    {
+      "name": "cratedelight-25.09.22-1.21.7-fabric.jar",
+      "hash": "603f196b0f1c06f8d9b8f32ec5c8b9c257b94bf916ee460951abf98cea6b66b8",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/cratedelight-25.09.22-1.21.7-fabric.jar"
+    },
+    {
+      "name": "deimos-1.21.10-fabric-2.5.jar",
+      "hash": "fa859cd35bcd58d89b55aca86ac0d4eaafd56c5de728b17b96f214fee7b9b4a7",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/deimos-1.21.10-fabric-2.5.jar"
+    },
+    {
+      "name": "dynamiclights-v1.9+bump-mc1.17-1.21.10-mod.jar",
+      "hash": "4ef4f62cdf2792532eea2d28d0b80ccbef55c0539a7e5b83dd6b86fe653f4164",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/dynamiclights-v1.9+bump-mc1.17-1.21.10-mod.jar"
+    },
+    {
+      "name": "easy_npc-fabric-1.21.10-6.1.2.jar",
+      "hash": "e246fe2c522929b65383c5da2774ddec7d00622ab9837dbd993ae2134a3df835",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/easy_npc-fabric-1.21.10-6.1.2.jar"
+    },
+    {
+      "name": "easy_npc_bundle-6.1.2-fabric-1.21.10.jar",
+      "hash": "1d5b9b88889a6ff59489bb4f1f73a8d4644dad07aff152cc9c506469b6c71f77",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/easy_npc_bundle-6.1.2-fabric-1.21.10.jar"
+    },
+    {
+      "name": "easy_npc_config_ui-fabric-1.21.10-6.1.2.jar",
+      "hash": "806b6a24bd3f34b47769ff38f464c81aed484d48f4bd2344c983ec2df8e6e660",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/easy_npc_config_ui-fabric-1.21.10-6.1.2.jar"
+    },
+    {
+      "name": "fabric-api-0.138.3+1.21.10.jar",
+      "hash": "ac207590419eb75059aa99fe1639624041c1d6fd088ba16e762e5d7ecf633953",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/fabric-api-0.138.3+1.21.10.jar"
+    },
+    {
+      "name": "factions-mc1.21.10-2.9.2.jar",
+      "hash": "5d582a42f7593d9fa913f7ce75bdc1632ca28c4a5cf920b0e1683031e9a33a0b",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/factions-mc1.21.10-2.9.2.jar"
+    },
+    {
+      "name": "fancymenu_fabric_3.8.1_MC_1.21.10.jar",
+      "hash": "b6982a75a2f3939f35469e2ce51c563c5d4136b0d9495cd656c1d3bc58de7fd5",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/fancymenu_fabric_3.8.1_MC_1.21.10.jar"
+    },
+    {
+      "name": "framework-fabric-1.21.10-0.13.5.jar",
+      "hash": "d3a739e88ec26c42091994f92466a22447f38cfe49a5bd8f2555d87e49f99dff",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/framework-fabric-1.21.10-0.13.5.jar"
+    },
+    {
+      "name": "healingcampfire-1.21.10-6.2.jar",
+      "hash": "8503d8a4060b7b3b9bbe9de42150e717a19439c34d9c420334eedf479eb0ed48",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/healingcampfire-1.21.10-6.2.jar"
+    },
+    {
+      "name": "jamlib-fabric-1.3.5+1.21.10.jar",
+      "hash": "ddd8fc7eb858cfba6d1ac7c7ccc98ed6b639efd57e23acc76f730e9286ee8509",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/jamlib-fabric-1.3.5+1.21.10.jar"
+    },
+    {
+      "name": "jei-1.21.10-fabric-26.2.0.27.jar",
+      "hash": "f765b303e8dc0397be7519bec6b7c1ce4bbff29dc190bd5f43a85683afbbf7b4",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/jei-1.21.10-fabric-26.2.0.27.jar"
+    },
+    {
+      "name": "konkrete_fabric_1.9.13_MC_1.21.10.jar",
+      "hash": "100b0d0593f213b3018f4f73c04f4f8cd8937d22d053bcbf7ab37bd7fb475f18",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/konkrete_fabric_1.9.13_MC_1.21.10.jar"
+    },
+    {
+      "name": "lambdynamiclights-4.8.6+1.21.10.jar",
+      "hash": "3fe7ae8e686e1de1696ed513a6705e66bce2cadd8b1a319d059c3e68553b0114",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/lambdynamiclights-4.8.6+1.21.10.jar"
+    },
+    {
+      "name": "litematica-fabric-1.21.10-0.24.3.jar",
+      "hash": "9d5a45ba19e29dc29bf1d12431a25a2ff0f2b8e08ef791dd84d3245530c1ad7d",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/litematica-fabric-1.21.10-0.24.3.jar"
+    },
+    {
+      "name": "litematica-server-paster-v1.3.12-mc1.21.10.jar",
+      "hash": "2c24cf380e1227b591313670d8e723a4389fcd4022c4dd47b6e15b3662740cf2",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/litematica-server-paster-v1.3.12-mc1.21.10.jar"
+    },
+    {
+      "name": "lmft-1.1.1+1.21.9-fabric.jar",
+      "hash": "25ebdec14e3dc557866100c19169b0e2fb54cf7ef25d78f90aca4631ee2e5a0d",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/lmft-1.1.1+1.21.9-fabric.jar"
+    },
+    {
+      "name": "malilib-fabric-1.21.10-0.26.3.jar",
+      "hash": "cb34005c1db15d6e7a10eea54cd434f1967c87bea2246b5bc3d613d73c0bf85c",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/malilib-fabric-1.21.10-0.26.3.jar"
+    },
+    {
+      "name": "mcw-bridges-3.1.0-mc1.21.10fabric.jar",
+      "hash": "80de723e640a1b3450f0d2baeee918a88cff36d39d47d79b106e9dc81b28374d",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/mcw-bridges-3.1.0-mc1.21.10fabric.jar"
+    },
+    {
+      "name": "mcw-doors-1.1.2-mc1.21.10fabric.jar",
+      "hash": "d08169532aad820527d57a1bf9c850d2d7ebb88eaf951b2d7e5ab52faf4bcd1f",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/mcw-doors-1.1.2-mc1.21.10fabric.jar"
+    },
+    {
+      "name": "mcw-furniture-3.4.1-mc1.21.10fabric.jar",
+      "hash": "4e4871bf43127c6169428c3a2fc02b65a12878a2ef511ed13194f97ee8c6ea6f",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/mcw-furniture-3.4.1-mc1.21.10fabric.jar"
+    },
+    {
+      "name": "mcw-lights-1.1.4-mc1.21.10fabric.jar",
+      "hash": "8b73b7f45f0f746dca445340bd850b027cad7082d09b735a905b99215583ac8a",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/mcw-lights-1.1.4-mc1.21.10fabric.jar"
+    },
+    {
+      "name": "mcw-mcwfences-1.2.1-mc1.21.10fabric.jar",
+      "hash": "eeab011a30bdf0c388467f6018f31af225d8c56bcbba88dfdf48e5caec3cdf7a",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/mcw-mcwfences-1.2.1-mc1.21.10fabric.jar"
+    },
+    {
+      "name": "mcw-paths-1.1.1-mc1.21.10fabric.jar",
+      "hash": "1a2d480d76e0731879ad178a1a88c6d2be2d88a9639d3f8a800f3faea4d1bea0",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/mcw-paths-1.1.1-mc1.21.10fabric.jar"
+    },
+    {
+      "name": "mcw-roofs-2.3.2-mc1.21.10fabric.jar",
+      "hash": "55aa5058aabd0b79a75e363bd301ddb202b437ebc21254f32098f18555294a04",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/mcw-roofs-2.3.2-mc1.21.10fabric.jar"
+    },
+    {
+      "name": "mcw-trapdoors-1.1.5-mc1.21.10fabric.jar",
+      "hash": "a8a83c3e8e0b3ce14b47300cf9530dea846ef3129a99286b666d859b5aad90ce",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/mcw-trapdoors-1.1.5-mc1.21.10fabric.jar"
+    },
+    {
+      "name": "mcw-windows-2.4.1-mc1.21.10fabric.jar",
+      "hash": "755d971e0557b180e3d8f13e7d1317818e6ebad1e30899a7368472beb5c30af6",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/mcw-windows-2.4.1-mc1.21.10fabric.jar"
+    },
+    {
+      "name": "melody_fabric_1.0.14_MC_1.21.10.jar",
+      "hash": "088c17858756edf76b46cfaf7293caed780d29c234921620c7cfa51cdc05d0a3",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/melody_fabric_1.0.14_MC_1.21.10.jar"
+    },
+    {
+      "name": "mighty_mail-fabric-1.21.10-1.2.1.jar",
+      "hash": "b560b91c9db957c519bf31e58cbde8981bba702269466ad0986b177f8d54ba34",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/mighty_mail-fabric-1.21.10-1.2.1.jar"
+    },
+    {
+      "name": "morediscs-1.21.10-fabric-35.1.jar",
+      "hash": "bee7fc6e3728424612d0821ac1e248598044c06bafb0da2852294b8705ac7d4c",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/morediscs-1.21.10-fabric-35.1.jar"
+    },
+    {
+      "name": "notenoughanimations-fabric-1.10.6-mc1.21.10.jar",
+      "hash": "f048d15cabe47fd185c33c8e05f2c51602cf67479681fe3e76a6ed0effc8a0d1",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/notenoughanimations-fabric-1.10.6-mc1.21.10.jar"
+    },
+    {
+      "name": "prickle-fabric-1.21.10-21.10.2.jar",
+      "hash": "6b29c8bead245523959d1c1235e956de97a59becead28ed5a7c2a5a53b089366",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/prickle-fabric-1.21.10-21.10.2.jar"
+    },
+    {
+      "name": "rightclickharvest-fabric-4.6.0+1.21.10.jar",
+      "hash": "750ff1743eeaaa7d95209451de18075f936a63ccb218f58c24f92f3d448b632c",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/rightclickharvest-fabric-4.6.0+1.21.10.jar"
+    },
+    {
+      "name": "signed_paintings-1.2.7-mc1.21.9.jar",
+      "hash": "31215fe46ac0221c3d07a2ce7b24d84a7b486278d5f5d8ae0a3747b18b092bc4",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/signed_paintings-1.2.7-mc1.21.9.jar"
+    },
+    {
+      "name": "sound-physics-remastered-fabric-1.21.10-1.5.1.jar",
+      "hash": "fbaaa0b490f49f31b4a5e5196eeff8b0d39359fc29eeea595c6d25b68438f5ec",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/sound-physics-remastered-fabric-1.21.10-1.5.1.jar"
+    },
+    {
+      "name": "stackrefill-1.21.10-5.0.jar",
+      "hash": "6e246c92e0d88b47270ad2a4e7cf09b3beadaca052f1e3784bccb54d88f3a142",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/stackrefill-1.21.10-5.0.jar"
+    },
+    {
+      "name": "starterkit-1.21.10-7.6.jar",
+      "hash": "ac1a7889fea1b35f7cb90234f50af7e35b5ce944cc69c476017bb3955caab87e",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/starterkit-1.21.10-7.6.jar"
+    },
+    {
+      "name": "trashslot-fabric-1.21.10-21.10.2.jar",
+      "hash": "22f68045d4ff02ff8f902843e95f429d91097ccc0b8598ca6d9e832c1aae4b16",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/trashslot-fabric-1.21.10-21.10.2.jar"
+    },
+    {
+      "name": "treeharvester-1.21.10-9.3.jar",
+      "hash": "c5f953d23146349251279b1223dde65f377cf4d2ca37aab5d8277c8712c740ed",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/treeharvester-1.21.10-9.3.jar"
+    },
+    {
+      "name": "villagernames-1.21.10-8.3.jar",
+      "hash": "f8f52e4581a9db4a30afa42d14e9524520bbf19fa3a8d6102059b2bb71dca823",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/villagernames-1.21.10-8.3.jar"
+    },
+    {
+      "name": "voicechat-fabric-1.21.10-2.6.6.jar",
+      "hash": "c82e693012ec8b806752ae02c537f07b83064eaa01834e19691aec042dc3b376",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/voicechat-fabric-1.21.10-2.6.6.jar"
+    },
+    {
+      "name": "waystones-fabric-1.21.10-21.10.4.jar",
+      "hash": "2b47780ad31194ebeae1f8d588139e24c4c09fd22bdcfc9e6aba5bd503fe85f6",
+      "url": "https://github.com/STAELH81/gamelon-launcher/releases/download/v1.0/waystones-fabric-1.21.10-21.10.4.jar"
+    }
+  ]
+}
