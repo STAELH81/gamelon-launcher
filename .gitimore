@@ -1,0 +1,17 @@
+# Dossiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Mods et manifest (déjà dans les Releases)
+mods/
+manifest.json
+
+# Fichiers Windows
+Thumbs.db
+desktop.ini
