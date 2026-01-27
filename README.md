@@ -52,14 +52,14 @@ Voir la [release v1.0](https://github.com/STAELH81/gamelon-launcher/releases/tag
 
 ## 🌐 Serveur
 
-- **IP du serveur** : [À REMPLIR]
+- **IP du serveur** : gamelonv4.g.akliz.net
 - **Hébergement** : Akliz
 - **Version** : Fabric 1.21.10
 
 ## 📞 Support
 
-Pour toute question ou problème, contacte [TON DISCORD/EMAIL].
+Pour toute question ou problème, contacte 'zambiasisacha@gmail.com'.
 
 ---
 
-*Créé par [TON NOM] - Projet BTS CIEL IR*
+*Créé par STAELH81 à l'aide de Claude IA*
