@@ -116,7 +116,7 @@ def sync_mods(manifest):
     print(f"✅ Synchronisation terminée !")
     print(f"   📥 Téléchargés: {downloaded}")
     print(f"   🔄 Mis à jour: {updated}")
-    print(f"   ✔️  Déjà à jour: {total_mods - downloaded - updated}")
+    print(f"   ✔️ Déjà à jour: {total_mods - downloaded - updated}")
     print("="*60 + "\n")
 
 def launch_minecraft(manifest):
