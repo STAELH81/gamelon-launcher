@@ -48,7 +48,7 @@ python -m PyInstaller --onefile --icon=server-icon.ico --name="GamelonLauncher" 
 
 ## 📝 Liste des mods
 
-Voir la [release v1.0](https://github.com/STAELH81/gamelon-launcher/releases/tag/v1.0) pour la liste complète des 64 mods inclus.
+Voir la [release v1.2](https://github.com/STAELH81/gamelon-launcher/releases/tag/v1.2) pour la liste complète des 64 mods inclus.
 
 ## 🌐 Serveur
 
